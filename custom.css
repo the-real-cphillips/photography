@@ -6,6 +6,10 @@ body {
   margin: auto;
 }
 
+h1 a{
+  color: #f8fbff;
+}
+
 a {
   color: #f8fbff;
 }
