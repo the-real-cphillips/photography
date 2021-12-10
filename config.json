@@ -7,7 +7,7 @@
   "download-photos": "copy",
   "cleanup": true,
   "theme": "cards",
-  "theme-style": "./custom.css",
+  "css": "./custom.css",
   "footer": "Craig Phillips 2021",
   "usage-stats": false
 }
